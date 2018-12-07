@@ -1,0 +1,15 @@
+# install.packages(c("httr", "jsonlite"))
+library(httr)
+library(jsonlite)
+
+
+api_key <- "zFsD5kmLPIzJxpg0B2dXx1bfQ1cy9Je1"
+ip <-"86.12.150.19"
+url_base <- "https://api.shodan.io/shodan/host/"
+
+
+url <- fromJSON(paste0(url_base,ip,key_slug,api_key))
+
+names(url)
+
+print(url$ports)

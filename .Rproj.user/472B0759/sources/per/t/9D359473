@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543871369067.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "229328859",
+    "id" : "9D359473",
+    "lastKnownWriteTime" : 1543874693,
+    "last_content_update" : 1543874693020,
+    "path" : "~/R/ShinyShodan/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "9,16",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
